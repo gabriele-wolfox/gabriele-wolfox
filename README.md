@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabriele-wolfox
 - 👀 I’m interested in programming, reading, playing music
-- 🌱 I’m currently work on Kubernetes operators for PostgreSQL with Golang
+- 🌱 I’m currently working on Kubernetes operators for PostgreSQL with Golang
 
 <!---
 ![gabriele-wolfox's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriele-wolfox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
